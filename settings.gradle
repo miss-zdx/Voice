@@ -1,0 +1,3 @@
+include ':packageSource'
+include ':app'
+rootProject.name = "CaeDemoAIUICollection"
